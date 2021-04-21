@@ -1,0 +1,18 @@
+*{
+    margin:0;
+    padding:0;
+    background-color: black;
+    color:white;
+    text-align: justify;
+}
+
+#container{
+    width:80vw;
+    margin:100vh auto;
+    font-size: 24px;
+}
+
+.paragraph{
+    text-indent: 10vw;
+    opacity:0;
+}
